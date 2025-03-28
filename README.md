@@ -14,14 +14,15 @@ To get started with Wollok, follow these steps:
 ## First Example: Hello World
 Here’s a simple "Hello, World!" example to get started.
 
-```wollok
-"Hello, World!" print.
-1. Variables y Tipos de Datos
-Después de tu primer ejemplo, sería bueno agregar algo sobre variables y tipos de datos. Aquí tienes una forma de hacerlo:
 
-md
-Copiar
-Editar
+
+
+
+
+
+
+"Hello, World!" print.
+
 ## Variables and Data Types
 
 Wollok uses variables to store values. Variables can hold different types of data, such as numbers, text, and more!
