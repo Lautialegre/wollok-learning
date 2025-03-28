@@ -35,3 +35,6 @@ text := "Wollok is awesome!".
 number print.    "Prints: 10"
 text print.      "Prints: Wollok is awesome!"
 Notice that the := is used to assign values to variables. Easy, right?
+```
+
+
