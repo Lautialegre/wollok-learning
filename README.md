@@ -16,3 +16,21 @@ Here’s a simple "Hello, World!" example to get started.
 
 ```wollok
 "Hello, World!" print.
+1. Variables y Tipos de Datos
+Después de tu primer ejemplo, sería bueno agregar algo sobre variables y tipos de datos. Aquí tienes una forma de hacerlo:
+
+md
+Copiar
+Editar
+## Variables and Data Types
+
+Wollok uses variables to store values. Variables can hold different types of data, such as numbers, text, and more!
+
+Here’s how you can declare and print variables:
+
+```wollok
+number := 10.
+text := "Wollok is awesome!".
+number print.    "Prints: 10"
+text print.      "Prints: Wollok is awesome!"
+Notice that the := is used to assign values to variables. Easy, right?
