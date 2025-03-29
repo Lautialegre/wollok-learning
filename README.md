@@ -30,11 +30,37 @@ Wollok uses variables to store values. Variables can hold different types of dat
 Here’s how you can declare and print variables:
 
 ```wollok
+
 number := 10.
 text := "Wollok is awesome!".
 number print.    "Prints: 10"
 text print.      "Prints: Wollok is awesome!"
 Notice that the := is used to assign values to variables. Easy, right?
 ```
+Ejemplo con method en Wollok:
+wollok
+Copiar
+Editar
+object Pepito {
+
+    method fly() = 
+        "Flying... ✈️" print.
+
+}
+
+pepito := Pepito new.
+pepito fly.
+Explicación:
+object Pepito: Define un objeto llamado Pepito.
+
+method fly(): Define un método fly dentro del objeto, que al ser llamado imprime "Flying... ✈️".
+
+pepito := Pepito new.: Crea una nueva instancia del objeto Pepito.
+
+pepito fly: Llama al método fly sobre el objeto pepito.
+
+
+
+
 
 
