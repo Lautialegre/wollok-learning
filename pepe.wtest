@@ -1,0 +1,5 @@
+describe "Primer bateria de test" {
+  test "pepe cadete, bono resultado de monto fijo y bono presentismo normal" {
+    
+  }
+}
